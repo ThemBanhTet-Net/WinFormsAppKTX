@@ -76,4 +76,9 @@ namespace WinFormsAppKTX
 
         }
     }
+<<<<<<< HEAD
 }
+=======
+}
+//Tai vừa sửa 
+>>>>>>> 901abb5de273a497abbe646a5d53bad9c8a32cb1
